@@ -1,1 +1,5 @@
-print('git first commit');
+
+x = input('input number');
+
+print('number'+x)
+ 
